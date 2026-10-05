@@ -1,0 +1,12 @@
+{
+  "name": "velocity-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for testing Cloudways Velocity",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
